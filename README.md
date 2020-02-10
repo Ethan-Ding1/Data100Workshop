@@ -1,8 +1,8 @@
-#Reading Responses
+# Reading Responses
 
-##Blumenstock Response
+## Blumenstock Response
 
 https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Blumenstock.md
 
-##Lloyd Response
+## Lloyd Response
 
