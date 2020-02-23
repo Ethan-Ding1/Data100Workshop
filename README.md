@@ -14,4 +14,10 @@
 
 # Project 1
 
+[Descriptions](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Project%201%20Descriptions)
 
+[Part 1](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Bhutan1.png)
+
+[Part 2](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/btn_population.png)
+
+[Part 3](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Bhutan3.png)
