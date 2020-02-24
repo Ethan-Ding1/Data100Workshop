@@ -1,4 +1,5 @@
-# Reading Responses
+# Ethan Ding
+# Reading Responses 
 
 ## Blumenstock Response
 
