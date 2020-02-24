@@ -16,6 +16,7 @@
 # Project 1
 
 [Descriptions](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Project%201%20Descriptions)
+![Image](Bhutan1.png)
 
 [Part 1: Projecting, Plotting and Labelling Administrative Subdivisions](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Bhutan1.png)
 
