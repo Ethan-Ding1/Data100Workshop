@@ -15,11 +15,4 @@
 
 # Project 1
 
-[Descriptions](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Project%201%20Descriptions)
-![Image](Bhutan1.png)
-
-[Part 1: Projecting, Plotting and Labelling Administrative Subdivisions](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Bhutan1.png)
-
-[Part 2: Extracting Populations from a Raster and Aggregating to each Unit](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/btn_population.png)
-
-[Part 3: Creating a Geometric Bar Plot with your Simple Feature object](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Bhutan3.png)
+[Project 1 Deliverable](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Project1.md)
