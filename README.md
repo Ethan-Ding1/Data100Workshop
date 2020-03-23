@@ -19,4 +19,4 @@
 
 # Project 1
 
-[Project 1 Deliverable](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Project1.md)
+[Project 1 Deliverable](Project1.md)
