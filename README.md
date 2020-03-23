@@ -15,7 +15,7 @@
 
 ## Lightning Questions 3/2
 
-[Lightning Questions](Lightning Questions.md)
+[Lightning Questions](LightningQuestions.md)
 
 # Project 1
 
