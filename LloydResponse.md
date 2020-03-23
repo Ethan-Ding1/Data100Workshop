@@ -1,3 +1,5 @@
+# Lloyd Response
+
 Perspective Question: In the Lloyd et al. article, the authors introduce a method that uses a number of different openly available 
 geospatial datasets in order to produce high resolution, global gridded descriptions of human populations. Describe the geospatial 
 datasets the authors are using in their methodology. How is their method an improvement when compared to a conventional census? Are 
