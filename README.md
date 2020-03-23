@@ -3,19 +3,19 @@
 
 ## Blumenstock Response
 
-[Blumenstock Response](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Blumenstock.md)
+[Blumenstock Response](Blumenstock.md)
 
 ## Lloyd Response
 
-[Lloyd Response](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Lloyd%20Response)
+[Lloyd Response](Lloyd Response.md)
 
 ## Wardrop Response
 
-[Wardrop Response](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Wardrop%20Response)
+[Wardrop Response](Wardrop Response.md)
 
 ## Lightning Questions 3/2
 
-[Lightning Questions](https://github.com/Ethan-Ding1/Data100Workshop/blob/master/Lightning%20Questions)
+[Lightning Questions](Lightning Questions.md)
 
 # Project 1
 
