@@ -7,11 +7,11 @@
 
 ## Lloyd Response
 
-[Lloyd Response](Lloyd Response.md)
+[Lloyd Response](LloydResponse.md)
 
 ## Wardrop Response
 
-[Wardrop Response](Wardrop Response.md)
+[Wardrop Response](WardropResponse.md)
 
 ## Lightning Questions 3/2
 
