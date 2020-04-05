@@ -5,7 +5,7 @@
 ### Predicted Population
 ![](Population_Sums.png)
 ### Differences between predicted plot and World Pop Estimates
-(Bhutan_Diffsums.png)
+![](Bhutan_Diffsums.png)
 ### 3D Plot
 ![](RasterVis_Sums.png)
 
