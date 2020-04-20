@@ -7,7 +7,7 @@ Outside of the capital area, however, doesn't appear to be many other human sett
 represented by the green dots. This shows just how condensed the population is into its capital city. 
 
 # Part 2: Adding transportation facilities & health care services
-![](Access to Health Services.png)
+![](AccesstoHealthServices.png)
 In this picture, the primary highways/roadways are colored in red while the secondary feeder roads/roadways are colored in blue. It can be
 seen that one highway is the main road in almost the entire urban area of the capital city. However, it can be seen that more roads appear
 to continue outside of the Thimphu region into another, which may indicate another possible urban area outside of this region. The white
